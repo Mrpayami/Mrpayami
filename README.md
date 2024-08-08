@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpayami&show_icons=true&theme=dark&locale=en&layout=compact" alt="mrpayami" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpayami&show_icons=true&theme=radical&locale=en" alt="mrpayami" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpayami&theme=dark" alt="mrpayami" /></p>
